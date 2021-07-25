@@ -11,7 +11,9 @@ Random instance generator used in the papers:
 
 ## Run
 
-`./InstanceGenerator -s <s> -p1 <p1> -p2 <p2> -p3 <p3> -p4 <p4> -p5 <p5> -p6 <p6> -p7 <p7> -p8 <p8> -p9 <p9> -p10 <p10> -p11 <p11> -p12 <p12>`
+```
+./InstanceGenerator -s <s> -p1 <p1> -p2 <p2> -p3 <p3> -p4 <p4> -p5 <p5> -p6 <p6> -p7 <p7> -p8 <p8> -p9 <p9> -p10 <p10> -p11 <p11> -p12 <p12>
+```
 
 where:
 
@@ -31,7 +33,9 @@ where:
 
 ## Exemple of use:
 
-`./InstanceGenerator -s 2 -p1 4 -p2 4 -p3 2 -p4 3 -p5 30 -p6 100 -p7 2 -p8 5 -p9 1 -p10 3 -p11 5 -p12 20`
+```
+./InstanceGenerator -s 2 -p1 4 -p2 4 -p3 2 -p4 3 -p5 30 -p6 100 -p7 2 -p8 5 -p9 1 -p10 3 -p11 5 -p12 20
+```
 
 Possible result:
 
