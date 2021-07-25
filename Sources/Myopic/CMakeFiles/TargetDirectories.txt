@@ -1,0 +1,3 @@
+/home/oberlan/Google Drive UFES/bromro2/Sources/Myopic/CMakeFiles/rebuild_cache.dir
+/home/oberlan/Google Drive UFES/bromro2/Sources/Myopic/CMakeFiles/Myopic.dir
+/home/oberlan/Google Drive UFES/bromro2/Sources/Myopic/CMakeFiles/edit_cache.dir
